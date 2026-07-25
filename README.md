@@ -150,9 +150,9 @@ This assignment is based on an image-slider implementation credited in the sourc
 
 ## 👤 Author
 
-**Siam Ahmad Musa**
+**Musa**
 
-[![GitHub](https://img.shields.io/badge/GitHub-samusa099-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
+[![Musa](https://img.shields.io/badge/GitHub-Musa-181717?style=for-the-badge&logo=github)](https://github.com/samusa099)
 
 ---
 
