@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/javascript-image-slider-cover.svg" alt="JavaScript Image Slider project cover" width="100%" />
+</p>
+
 <div align="center">
 
 # 🖼️ Responsive JavaScript Image Slider
@@ -48,6 +52,8 @@ Users can navigate through the image collection using directional buttons, horiz
 
 ```text
 Javascript-assignment/
+├── assets/
+│   └── javascript-image-slider-cover.svg
 ├── images/
 │   ├── img-1.jpg
 │   ├── img-2.jpg
